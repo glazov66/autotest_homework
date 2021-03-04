@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="ru.geekbrains.qa.TriangleTests" time="0.595" tests="5" errors="0" skipped="1" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.class.path" value="G:\Данные с диска С\Рабочий стол с НР\GEEKBRAINS\Автоматизация тестирования Web UI\AT- HW_Glazov\AT-HW4\AT-HW4_Glazov\target\test-classes;G:\Данные с диска С\Рабочий стол с НР\GEEKBRAINS\Автоматизация тестирования Web UI\AT- HW_Glazov\AT-HW4\AT-HW4_Glazov\target\classes;C:\Users\admin\.m2\repository\org\apache\maven\plugins\maven-surefire-plugin\3.0.0-M5\maven-surefire-plugin-3.0.0-M5.jar;C:\Users\admin\.m2\repository\org\apache\maven\surefire\maven-surefire-common\3.0.0-M5\maven-surefire-common-3.0.0-M5.jar;C:\Users\admin\.m2\repository\org\apache\maven\surefire\surefire-api\3.0.0-M5\surefire-api-3.0.0-M5.jar;C:\Users\admin\.m2\repository\org\apache\maven\surefire\surefire-logger-api\3.0.0-M5\surefire-logger-api-3.0.0-M5.jar;C:\Users\admin\.m2\repository\org\apache\maven\surefire\surefire-extensions-api\3.0.0-M5\surefire-extensions-api-3.0.0-M5.jar;C:\Users\admin\.m2\repository\org\apache\maven\surefire\surefire-booter\3.0.0-M5\surefire-booter-3.0.0-M5.jar;C:\Users\admin\.m2\repository\org\apache\maven\surefire\surefire-extensions-spi\3.0.0-M5\surefire-extensions-spi-3.0.0-M5.jar;C:\Users\admin\.m2\repository\org\apache\maven\maven-toolchain\3.0-alpha-2\maven-toolchain-3.0-alpha-2.jar;C:\Users\admin\.m2\repository\org\apache\maven\shared\maven-artifact-transfer\0.11.0\maven-artifact-transfer-0.11.0.jar;C:\Users\admin\.m2\repository\org\apache\maven\shared\maven-common-artifact-filters\3.0.1\maven-common-artifact-filters-3.0.1.jar;C:\Users\admin\.m2\repository\org\apache\maven\maven-model\3.0\maven-model-3.0.jar;C:\Users\admin\.m2\repository\org\apache\maven\maven-plugin-api\3.0\maven-plugin-api-3.0.jar;C:\Users\admin\.m2\repository\org\sonatype\sisu\sisu-inject-plexus\1.4.2\sisu-inject-plexus-1.4.2.jar;C:\Users\admin\.m2\repository\org\codehaus\plexus\plexus-classworlds\2.2.3\plexus-classworlds-2.2.3.jar;C:\Users\admin\.m2\repository\org\sonatype\sisu\sisu-inject-bean\1.4.2\sisu-inject-bean-1.4.2.jar;C:\Users\admin\.m2\repository\org\sonatype\sisu\sisu-guice\2.1.7\sisu-guice-2.1.7-noaop.jar;C:\Users\admin\.m2\repository\org\apache\maven\shared\maven-shared-utils\3.1.0\maven-shared-utils-3.1.0.jar;C:\Users\admin\.m2\repository\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\admin\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\admin\.m2\repository\org\codehaus\plexus\plexus-java\1.0.5\plexus-java-1.0.5.jar;C:\Users\admin\.m2\repository\org\ow2\asm\asm\7.2\asm-7.2.jar;C:\Users\admin\.m2\repository\com\thoughtworks\qdox\qdox\2.0-M9\qdox-2.0-M9.jar;C:\Users\admin\.m2\repository\org\apache\maven\surefire\surefire-shared-utils\3.0.0-M4\surefire-shared-utils-3.0.0-M4.jar;C:\Users\admin\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.0\junit-jupiter-engine-5.7.0.jar;C:\Users\admin\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\admin\.m2\repository\org\junit\platform\junit-platform-engine\1.7.0\junit-platform-engine-1.7.0.jar;C:\Users\admin\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.0\junit-jupiter-api-5.7.0.jar;C:\Users\admin\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\admin\.m2\repository\org\junit\platform\junit-platform-commons\1.7.0\junit-platform-commons-1.7.0.jar;C:\Users\admin\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.7.0\junit-jupiter-params-5.7.0.jar;C:\Users\admin\.m2\repository\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar;C:\Users\admin\.m2\repository\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3.jar;C:\Users\admin\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Users\admin\.m2\repository\org\assertj\assertj-core\3.15.0\assertj-core-3.15.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Moscow"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_271\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\admin\AppData\Local\Temp\surefire4648600700077579388\surefirebooter5831785805231551768.jar C:\Users\admin\AppData\Local\Temp\surefire4648600700077579388 2021-03-04T16-06-00_689-jvmRun1 surefire7372592635272735378tmp surefire_04574551359261073610tmp"/>
+    <property name="surefire.test.class.path" value="G:\Данные с диска С\Рабочий стол с НР\GEEKBRAINS\Автоматизация тестирования Web UI\AT- HW_Glazov\AT-HW4\AT-HW4_Glazov\target\test-classes;G:\Данные с диска С\Рабочий стол с НР\GEEKBRAINS\Автоматизация тестирования Web UI\AT- HW_Glazov\AT-HW4\AT-HW4_Glazov\target\classes;C:\Users\admin\.m2\repository\org\apache\maven\plugins\maven-surefire-plugin\3.0.0-M5\maven-surefire-plugin-3.0.0-M5.jar;C:\Users\admin\.m2\repository\org\apache\maven\surefire\maven-surefire-common\3.0.0-M5\maven-surefire-common-3.0.0-M5.jar;C:\Users\admin\.m2\repository\org\apache\maven\surefire\surefire-api\3.0.0-M5\surefire-api-3.0.0-M5.jar;C:\Users\admin\.m2\repository\org\apache\maven\surefire\surefire-logger-api\3.0.0-M5\surefire-logger-api-3.0.0-M5.jar;C:\Users\admin\.m2\repository\org\apache\maven\surefire\surefire-extensions-api\3.0.0-M5\surefire-extensions-api-3.0.0-M5.jar;C:\Users\admin\.m2\repository\org\apache\maven\surefire\surefire-booter\3.0.0-M5\surefire-booter-3.0.0-M5.jar;C:\Users\admin\.m2\repository\org\apache\maven\surefire\surefire-extensions-spi\3.0.0-M5\surefire-extensions-spi-3.0.0-M5.jar;C:\Users\admin\.m2\repository\org\apache\maven\maven-toolchain\3.0-alpha-2\maven-toolchain-3.0-alpha-2.jar;C:\Users\admin\.m2\repository\org\apache\maven\shared\maven-artifact-transfer\0.11.0\maven-artifact-transfer-0.11.0.jar;C:\Users\admin\.m2\repository\org\apache\maven\shared\maven-common-artifact-filters\3.0.1\maven-common-artifact-filters-3.0.1.jar;C:\Users\admin\.m2\repository\org\apache\maven\maven-model\3.0\maven-model-3.0.jar;C:\Users\admin\.m2\repository\org\apache\maven\maven-plugin-api\3.0\maven-plugin-api-3.0.jar;C:\Users\admin\.m2\repository\org\sonatype\sisu\sisu-inject-plexus\1.4.2\sisu-inject-plexus-1.4.2.jar;C:\Users\admin\.m2\repository\org\codehaus\plexus\plexus-classworlds\2.2.3\plexus-classworlds-2.2.3.jar;C:\Users\admin\.m2\repository\org\sonatype\sisu\sisu-inject-bean\1.4.2\sisu-inject-bean-1.4.2.jar;C:\Users\admin\.m2\repository\org\sonatype\sisu\sisu-guice\2.1.7\sisu-guice-2.1.7-noaop.jar;C:\Users\admin\.m2\repository\org\apache\maven\shared\maven-shared-utils\3.1.0\maven-shared-utils-3.1.0.jar;C:\Users\admin\.m2\repository\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\admin\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\admin\.m2\repository\org\codehaus\plexus\plexus-java\1.0.5\plexus-java-1.0.5.jar;C:\Users\admin\.m2\repository\org\ow2\asm\asm\7.2\asm-7.2.jar;C:\Users\admin\.m2\repository\com\thoughtworks\qdox\qdox\2.0-M9\qdox-2.0-M9.jar;C:\Users\admin\.m2\repository\org\apache\maven\surefire\surefire-shared-utils\3.0.0-M4\surefire-shared-utils-3.0.0-M4.jar;C:\Users\admin\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.0\junit-jupiter-engine-5.7.0.jar;C:\Users\admin\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\admin\.m2\repository\org\junit\platform\junit-platform-engine\1.7.0\junit-platform-engine-1.7.0.jar;C:\Users\admin\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.0\junit-jupiter-api-5.7.0.jar;C:\Users\admin\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\admin\.m2\repository\org\junit\platform\junit-platform-commons\1.7.0\junit-platform-commons-1.7.0.jar;C:\Users\admin\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.7.0\junit-jupiter-params-5.7.0.jar;C:\Users\admin\.m2\repository\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar;C:\Users\admin\.m2\repository\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3.jar;C:\Users\admin\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Users\admin\.m2\repository\org\assertj\assertj-core\3.15.0\assertj-core-3.15.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\admin"/>
+    <property name="user.language" value="ru"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_271\jre"/>
+    <property name="basedir" value="G:\Данные с диска С\Рабочий стол с НР\GEEKBRAINS\Автоматизация тестирования Web UI\AT- HW_Glazov\AT-HW4\AT-HW4_Glazov"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\admin\AppData\Local\Temp\surefire4648600700077579388\surefirebooter5831785805231551768.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_271\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_271\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_271\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_271\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_271\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_271\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_271\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_271\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_271-b09"/>
+    <property name="user.name" value="admin"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_271\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\admin\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\admin\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2020.3"/>
+    <property name="java.version" value="1.8.0_271"/>
+    <property name="user.dir" value="G:\Данные с диска С\Рабочий стол с НР\GEEKBRAINS\Автоматизация тестирования Web UI\AT- HW_Glazov\AT-HW4\AT-HW4_Glazov"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_271\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\admin\AppData\Local\Microsoft\WindowsApps;C:\Users\admin\AppData\Local\gitkraken\bin;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.271-b09"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_271\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="testArea" classname="ru.geekbrains.qa.TriangleTests" time="0.063">
+    <system-out><![CDATA[16:06:03,141 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]
+16:06:03,141 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback.groovy]
+16:06:03,141 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [file:/G:/%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%20%D0%B4%D0%B8%D1%81%D0%BA%D0%B0%20%D0%A1/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB%20%D1%81%20%D0%9D%D0%A0/GEEKBRAINS/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20Web%20UI/AT-%20HW_Glazov/AT-HW4/AT-HW4_Glazov/target/test-classes/logback.xml]
+16:06:03,246 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - debug attribute not set
+16:06:03,247 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
+16:06:03,262 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [CONSOLE]
+16:06:03,325 |-WARN in ch.qos.logback.core.ConsoleAppender[CONSOLE] - This appender no longer admits a layout as a sub-component, set an encoder instead.
+16:06:03,325 |-WARN in ch.qos.logback.core.ConsoleAppender[CONSOLE] - To ensure compatibility, wrapping your layout in LayoutWrappingEncoder.
+16:06:03,325 |-WARN in ch.qos.logback.core.ConsoleAppender[CONSOLE] - See also http://logback.qos.ch/codes.html#layoutInsteadOfEncoder for details
+16:06:03,326 |-INFO in ch.qos.logback.classic.joran.action.RootLoggerAction - Setting level of ROOT logger to INFO
+16:06:03,326 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [CONSOLE] to Logger[ROOT]
+16:06:03,327 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - End of configuration.
+16:06:03,328 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@4ddced80 - Registering current configuration as safe fallback point
+
+16:06:03.336 [main]  INFO  ru.geekbrains.qa.TriangleTests - 	BEFORE ALL TESTS =>
+16:06:03.382 [main]  INFO  ru.geekbrains.qa.TriangleTests - 		BEFORE CURRENT TEST
+16:06:03.386 [main]  INFO  ru.geekbrains.qa.TriangleTests - 			START THIS TEST
+16:06:03.396 [main]  INFO  ru.geekbrains.qa.TriangleTests - 			END THIS TEST
+16:06:03.401 [main]  INFO  ru.geekbrains.qa.TriangleTests - 		AFTER CURRENT TEST
+]]></system-out>
+  </testcase>
+  <testcase name="testHp" classname="ru.geekbrains.qa.TriangleTests" time="0.004">
+    <system-out><![CDATA[16:06:03.419 [main]  INFO  ru.geekbrains.qa.TriangleTests - 		BEFORE CURRENT TEST
+16:06:03.419 [main]  INFO  ru.geekbrains.qa.TriangleTests - 			START THIS TEST
+16:06:03.419 [main]  INFO  ru.geekbrains.qa.TriangleTests - 			END THIS TEST
+16:06:03.420 [main]  INFO  ru.geekbrains.qa.TriangleTests - 		AFTER CURRENT TEST
+]]></system-out>
+  </testcase>
+  <testcase name="paramAreaTest(double, double, double)[1]" classname="ru.geekbrains.qa.TriangleTests" time="0.044">
+    <system-out><![CDATA[16:06:03.508 [main]  INFO  ru.geekbrains.qa.TriangleTests - 		BEFORE CURRENT TEST
+16:06:03.547 [main]  INFO  ru.geekbrains.qa.TriangleTests - 			START THIS TEST
+act_result: 6.0
+exp_result: 6.0
+16:06:03.548 [main]  INFO  ru.geekbrains.qa.TriangleTests - 			END THIS TEST
+16:06:03.549 [main]  INFO  ru.geekbrains.qa.TriangleTests - 		AFTER CURRENT TEST
+]]></system-out>
+  </testcase>
+  <testcase name="paramAreaTest(double, double, double)[2]" classname="ru.geekbrains.qa.TriangleTests" time="0.004">
+    <system-out><![CDATA[16:06:03.561 [main]  INFO  ru.geekbrains.qa.TriangleTests - 		BEFORE CURRENT TEST
+16:06:03.562 [main]  INFO  ru.geekbrains.qa.TriangleTests - 			START THIS TEST
+act_result: 2.9047375096555625
+exp_result: 2.9047375096555625
+16:06:03.562 [main]  INFO  ru.geekbrains.qa.TriangleTests - 			END THIS TEST
+16:06:03.562 [main]  INFO  ru.geekbrains.qa.TriangleTests - 		AFTER CURRENT TEST
+]]></system-out>
+  </testcase>
+  <testcase name="paramAreaTest(double, double, double)[3]" classname="ru.geekbrains.qa.TriangleTests" time="0">
+    <skipped type="org.opentest4j.TestAbortedException"><![CDATA[org.opentest4j.TestAbortedException: Assumption failed: Тест пропускаем, т.к. исходные данные некорректные.
+	at ru.geekbrains.qa.TriangleTests.paramAreaTest(TriangleTests.java:88)
+]]></skipped>
+    <system-out><![CDATA[16:06:03.580 [main]  INFO  ru.geekbrains.qa.TriangleTests - 		BEFORE CURRENT TEST
+16:06:03.586 [main]  INFO  ru.geekbrains.qa.TriangleTests - 			START THIS TEST
+16:06:03.590 [main]  INFO  ru.geekbrains.qa.TriangleTests - 		AFTER CURRENT TEST
+]]></system-out>
+  </testcase>
+</testsuite>
