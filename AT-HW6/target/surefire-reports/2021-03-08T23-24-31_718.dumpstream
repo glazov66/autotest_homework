@@ -1,0 +1,4 @@
+# Created at 2021-03-08T23:24:32.610
+Boot Manifest-JAR contains absolute paths in classpath 'G:\Данные с диска С\Рабочий стол с НР\GEEKBRAINS\Автоматизация тестирования Web UI\AT- HW_Glazov\AT-HW1_Glazov_MavenProject\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
