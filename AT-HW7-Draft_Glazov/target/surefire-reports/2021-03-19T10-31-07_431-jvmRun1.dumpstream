@@ -1,0 +1,81 @@
+# Created at 2021-03-19T10:31:11.382
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10:31:'.
+
+# Created at 2021-03-19T10:31:11.504
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10,907 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]'.
+
+# Created at 2021-03-19T10:31:11.542
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10:31:'.
+
+# Created at 2021-03-19T10:31:11.570
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10,908 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback.groovy]'.
+
+# Created at 2021-03-19T10:31:11.573
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10:31:'.
+
+# Created at 2021-03-19T10:31:11.576
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10,909 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [file:/G:'.
+
+# Created at 2021-03-19T10:31:11.578
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '/%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%20%D0%B4%D0%B8%D1%81%D0%BA%D0%B0%20%D0%A1/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB%20%D1%81%20%D0%9D%D0%A0/GEEKBRAINS/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20Web%20UI/AT-%20HW_Glazov/AT-HW7/target/test-classes/logback.xml]'.
+
+# Created at 2021-03-19T10:31:11.579
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10:31:'.
+
+# Created at 2021-03-19T10:31:11.592
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '11,140 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - debug attribute not set'.
+
+# Created at 2021-03-19T10:31:11.594
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10:31:'.
+
+# Created at 2021-03-19T10:31:11.597
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '11,142 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]'.
+
+# Created at 2021-03-19T10:31:11.600
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10:31:'.
+
+# Created at 2021-03-19T10:31:11.602
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '11,188 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [CONSOLE]'.
+
+# Created at 2021-03-19T10:31:11.604
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10:31:'.
+
+# Created at 2021-03-19T10:31:11.606
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '11,366 |-WARN in ch.qos.logback.core.ConsoleAppender[CONSOLE] - This appender no longer admits a layout as a sub-component, set an encoder instead.'.
+
+# Created at 2021-03-19T10:31:11.609
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10:31:'.
+
+# Created at 2021-03-19T10:31:11.612
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '11,366 |-WARN in ch.qos.logback.core.ConsoleAppender[CONSOLE] - To ensure compatibility, wrapping your layout in LayoutWrappingEncoder.'.
+
+# Created at 2021-03-19T10:31:11.614
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10:31:'.
+
+# Created at 2021-03-19T10:31:11.616
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '11,366 |-WARN in ch.qos.logback.core.ConsoleAppender[CONSOLE] - See also http://logback.qos.ch/codes.html#layoutInsteadOfEncoder for details'.
+
+# Created at 2021-03-19T10:31:11.618
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10:31:'.
+
+# Created at 2021-03-19T10:31:11.621
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '11,368 |-INFO in ch.qos.logback.classic.joran.action.RootLoggerAction - Setting level of ROOT logger to INFO'.
+
+# Created at 2021-03-19T10:31:11.624
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10:31:'.
+
+# Created at 2021-03-19T10:31:11.626
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '11,368 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [CONSOLE] to Logger[ROOT]'.
+
+# Created at 2021-03-19T10:31:11.629
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10:31:'.
+
+# Created at 2021-03-19T10:31:11.632
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '11,370 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - End of configuration.'.
+
+# Created at 2021-03-19T10:31:11.634
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '10:31:'.
+
+# Created at 2021-03-19T10:31:11.637
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '11,374 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@17503f6b - Registering current configuration as safe fallback point'.
+
